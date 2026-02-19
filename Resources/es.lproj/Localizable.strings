@@ -1,0 +1,24 @@
+/* Checkbox */
+"Replace original file" = "Reemplazar archivo original";
+
+/* Drop zone */
+"Drop a PDF here" = "Arrastra un PDF aquí";
+"All pages will be equalized to the same width" = "Todas las páginas se ajustarán al mismo ancho";
+
+/* Processing */
+"Loading PDF..." = "Cargando PDF...";
+"Processing page %d of %d..." = "Procesando página %d de %d...";
+
+/* Success */
+"Done!" = "¡Listo!";
+"Original replaced!" = "¡Original reemplazado!";
+"Show in Finder" = "Mostrar en Finder";
+"Process Another" = "Procesar otro";
+
+/* Error */
+"Error" = "Error";
+"Try Again" = "Reintentar";
+"Please drop a PDF file." = "Por favor, arrastra un archivo PDF.";
+"Cannot open the PDF file." = "No se puede abrir el archivo PDF.";
+"The PDF file contains no pages." = "El archivo PDF no contiene páginas.";
+"Cannot create the output file." = "No se puede crear el archivo de salida.";

@@ -1,0 +1,24 @@
+/* Checkbox */
+"Replace original file" = "원본 파일 교체";
+
+/* Drop zone */
+"Drop a PDF here" = "PDF를 여기에 놓으세요";
+"All pages will be equalized to the same width" = "모든 페이지가 동일한 너비로 조정됩니다";
+
+/* Processing */
+"Loading PDF..." = "PDF 로딩 중...";
+"Processing page %d of %d..." = "%d / %d 페이지 처리 중...";
+
+/* Success */
+"Done!" = "완료!";
+"Original replaced!" = "원본이 교체되었습니다!";
+"Show in Finder" = "Finder에서 보기";
+"Process Another" = "다른 파일 처리";
+
+/* Error */
+"Error" = "오류";
+"Try Again" = "다시 시도";
+"Please drop a PDF file." = "PDF 파일을 놓아주세요.";
+"Cannot open the PDF file." = "PDF 파일을 열 수 없습니다.";
+"The PDF file contains no pages." = "PDF 파일에 페이지가 없습니다.";
+"Cannot create the output file." = "출력 파일을 생성할 수 없습니다.";

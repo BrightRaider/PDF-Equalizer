@@ -1,0 +1,24 @@
+/* Checkbox */
+"Replace original file" = "Замінити оригінальний файл";
+
+/* Drop zone */
+"Drop a PDF here" = "Перетягніть PDF сюди";
+"All pages will be equalized to the same width" = "Усі сторінки будуть вирівняні до однакової ширини";
+
+/* Processing */
+"Loading PDF..." = "Завантаження PDF...";
+"Processing page %d of %d..." = "Обробка сторінки %d з %d...";
+
+/* Success */
+"Done!" = "Готово!";
+"Original replaced!" = "Оригінал замінено!";
+"Show in Finder" = "Показати у Finder";
+"Process Another" = "Обробити інший";
+
+/* Error */
+"Error" = "Помилка";
+"Try Again" = "Спробувати знову";
+"Please drop a PDF file." = "Будь ласка, перетягніть PDF-файл.";
+"Cannot open the PDF file." = "Не вдалося відкрити PDF-файл.";
+"The PDF file contains no pages." = "PDF-файл не містить сторінок.";
+"Cannot create the output file." = "Не вдалося створити вихідний файл.";

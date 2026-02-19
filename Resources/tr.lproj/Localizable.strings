@@ -1,0 +1,24 @@
+/* Checkbox */
+"Replace original file" = "Orijinal dosyayı değiştir";
+
+/* Drop zone */
+"Drop a PDF here" = "Buraya bir PDF bırakın";
+"All pages will be equalized to the same width" = "Tüm sayfalar aynı genişliğe ayarlanacak";
+
+/* Processing */
+"Loading PDF..." = "PDF yükleniyor...";
+"Processing page %d of %d..." = "Sayfa %d / %d işleniyor...";
+
+/* Success */
+"Done!" = "Tamamlandı!";
+"Original replaced!" = "Orijinal değiştirildi!";
+"Show in Finder" = "Finder'da Göster";
+"Process Another" = "Başka bir dosya işle";
+
+/* Error */
+"Error" = "Hata";
+"Try Again" = "Tekrar Dene";
+"Please drop a PDF file." = "Lütfen bir PDF dosyası bırakın.";
+"Cannot open the PDF file." = "PDF dosyası açılamıyor.";
+"The PDF file contains no pages." = "PDF dosyası sayfa içermiyor.";
+"Cannot create the output file." = "Çıktı dosyası oluşturulamıyor.";

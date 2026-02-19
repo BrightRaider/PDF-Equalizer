@@ -1,0 +1,24 @@
+/* Checkbox */
+"Replace original file" = "Replace original file";
+
+/* Drop zone */
+"Drop a PDF here" = "Drop a PDF here";
+"All pages will be equalized to the same width" = "All pages will be equalized to the same width";
+
+/* Processing */
+"Loading PDF..." = "Loading PDF...";
+"Processing page %d of %d..." = "Processing page %d of %d...";
+
+/* Success */
+"Done!" = "Done!";
+"Original replaced!" = "Original replaced!";
+"Show in Finder" = "Show in Finder";
+"Process Another" = "Process Another";
+
+/* Error */
+"Error" = "Error";
+"Try Again" = "Try Again";
+"Please drop a PDF file." = "Please drop a PDF file.";
+"Cannot open the PDF file." = "Cannot open the PDF file.";
+"The PDF file contains no pages." = "The PDF file contains no pages.";
+"Cannot create the output file." = "Cannot create the output file.";

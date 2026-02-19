@@ -1,0 +1,24 @@
+/* Checkbox */
+"Replace original file" = "Origineel bestand vervangen";
+
+/* Drop zone */
+"Drop a PDF here" = "Sleep een PDF hierheen";
+"All pages will be equalized to the same width" = "Alle pagina's worden aangepast naar dezelfde breedte";
+
+/* Processing */
+"Loading PDF..." = "PDF laden...";
+"Processing page %d of %d..." = "Pagina %d van %d verwerken...";
+
+/* Success */
+"Done!" = "Klaar!";
+"Original replaced!" = "Origineel vervangen!";
+"Show in Finder" = "Toon in Finder";
+"Process Another" = "Nog een verwerken";
+
+/* Error */
+"Error" = "Fout";
+"Try Again" = "Opnieuw proberen";
+"Please drop a PDF file." = "Sleep een PDF-bestand.";
+"Cannot open the PDF file." = "Kan het PDF-bestand niet openen.";
+"The PDF file contains no pages." = "Het PDF-bestand bevat geen pagina's.";
+"Cannot create the output file." = "Kan het uitvoerbestand niet aanmaken.";

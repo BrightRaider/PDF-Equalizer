@@ -1,0 +1,24 @@
+/* Checkbox */
+"Replace original file" = "替换原始文件";
+
+/* Drop zone */
+"Drop a PDF here" = "将PDF拖放到此处";
+"All pages will be equalized to the same width" = "所有页面将被调整为相同宽度";
+
+/* Processing */
+"Loading PDF..." = "正在加载PDF...";
+"Processing page %d of %d..." = "正在处理第 %d 页，共 %d 页...";
+
+/* Success */
+"Done!" = "完成！";
+"Original replaced!" = "已替换原始文件！";
+"Show in Finder" = "在访达中显示";
+"Process Another" = "处理另一个";
+
+/* Error */
+"Error" = "错误";
+"Try Again" = "重试";
+"Please drop a PDF file." = "请拖放一个PDF文件。";
+"Cannot open the PDF file." = "无法打开PDF文件。";
+"The PDF file contains no pages." = "PDF文件不包含任何页面。";
+"Cannot create the output file." = "无法创建输出文件。";

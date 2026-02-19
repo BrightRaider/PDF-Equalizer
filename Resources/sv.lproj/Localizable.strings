@@ -1,0 +1,24 @@
+/* Checkbox */
+"Replace original file" = "Ersätt originalfilen";
+
+/* Drop zone */
+"Drop a PDF here" = "Släpp en PDF här";
+"All pages will be equalized to the same width" = "Alla sidor justeras till samma bredd";
+
+/* Processing */
+"Loading PDF..." = "Laddar PDF...";
+"Processing page %d of %d..." = "Bearbetar sida %d av %d...";
+
+/* Success */
+"Done!" = "Klart!";
+"Original replaced!" = "Originalet ersatt!";
+"Show in Finder" = "Visa i Finder";
+"Process Another" = "Bearbeta en till";
+
+/* Error */
+"Error" = "Fel";
+"Try Again" = "Försök igen";
+"Please drop a PDF file." = "Släpp en PDF-fil.";
+"Cannot open the PDF file." = "Kan inte öppna PDF-filen.";
+"The PDF file contains no pages." = "PDF-filen innehåller inga sidor.";
+"Cannot create the output file." = "Kan inte skapa utdatafilen.";

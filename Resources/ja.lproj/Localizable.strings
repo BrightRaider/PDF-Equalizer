@@ -1,0 +1,24 @@
+/* Checkbox */
+"Replace original file" = "元のファイルを置き換える";
+
+/* Drop zone */
+"Drop a PDF here" = "PDFをここにドロップ";
+"All pages will be equalized to the same width" = "すべてのページが同じ幅に調整されます";
+
+/* Processing */
+"Loading PDF..." = "PDFを読み込み中...";
+"Processing page %d of %d..." = "ページ %d / %d を処理中...";
+
+/* Success */
+"Done!" = "完了！";
+"Original replaced!" = "元のファイルを置き換えました！";
+"Show in Finder" = "Finderで表示";
+"Process Another" = "別のファイルを処理";
+
+/* Error */
+"Error" = "エラー";
+"Try Again" = "再試行";
+"Please drop a PDF file." = "PDFファイルをドロップしてください。";
+"Cannot open the PDF file." = "PDFファイルを開けません。";
+"The PDF file contains no pages." = "PDFファイルにページがありません。";
+"Cannot create the output file." = "出力ファイルを作成できません。";
