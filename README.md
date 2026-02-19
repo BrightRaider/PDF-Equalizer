@@ -1,8 +1,23 @@
-# PDF Equalizer
+<p align="center">
+  <img src="AppIcon-256.png" width="128" alt="PDF Equalizer icon">
+</p>
+<h1 align="center">PDF Equalizer</h1>
+<p align="center">
+  <strong>A lightweight macOS app that equalizes all pages of a PDF to the same width.</strong><br>
+  Lossless media box adjustment &middot; Drag &amp; drop &middot; Universal Binary (arm64 + x86_64)
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/macOS-12%2B-blue" alt="macOS 12+">
+  <img src="https://img.shields.io/badge/license-MIT-green" alt="MIT License">
+</p>
 
-A lightweight macOS app that equalizes all pages of a PDF to the same width. Pages are adjusted losslessly by modifying the page media box — no re-rendering or quality loss. Useful when scanned documents or merged PDFs have inconsistent page sizes.
+---
 
-![PDF Equalizer](Screenshot.png)
+Pages are adjusted by modifying the page media box — no re-rendering or quality loss. Useful when scanned documents or merged PDFs have inconsistent page sizes.
+
+<p align="center">
+  <img src="Screenshot.png" width="720" alt="PDF Equalizer main window">
+</p>
 
 ## Features
 
