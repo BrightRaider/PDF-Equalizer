@@ -1,9 +1,23 @@
-# Build artifacts
+# Source code (local only)
+src/**/*.cs
+src/**/*.csproj
+src/bin/
+src/obj/
+
+# Build script (local only)
+publish.ps1
+
+# EXEs — only track releases/
+*.exe
+!releases/*/PDFEqualizer.exe
+*.pdb
+
+# macOS build artifacts
 build/
 build-universal/
 
-# macOS
+# OS / Editor
 .DS_Store
-
-# Claude Code
+Thumbs.db
+.vs/
 .claude/
